@@ -4,6 +4,14 @@ import java.util.List;
 
 public class Sandwich {
 
+    public static final String NAME = "name";
+    public static final String MAIN_NAME = "mainName";
+    public static final String AKA = "alsoKnownAs";
+    public static final String ORIGIN = "placeOfOrigin";
+    public static final String DESCRIPTION = "description";
+    public static final String IMAGE_URL = "image";
+    public static final String INGREDIENTS = "ingredients";
+
     private String mainName;
     private List<String> alsoKnownAs = null;
     private String placeOfOrigin;
