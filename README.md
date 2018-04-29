@@ -1,3 +1,11 @@
+# Udacity || Grow with Google Developer Scholarship || Android Intermediate Nanodegree
+**Project 1:** Complete the Sandwich Club App
+- [x] parse sandwich JSON string
+- [x] display sandwich details
+
+**Miscellaneous Changes:**
+- updated theme using colors suggested by [material.io](https://material.io/color/#!/?view.left=0&view.right=0&primary.color=009688&secondary.color=004D40) color palette
+
 # Sandwich Club Project Starter Code
 
 ## Project Overview
